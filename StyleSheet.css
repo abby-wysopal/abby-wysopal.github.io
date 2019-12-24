@@ -4,8 +4,8 @@ body {
 }
 
 img{
-/*   width: 60%;
-  height: auto; */
+  width: 5;
+  height: 5; 
   image-rendering: pixelated;
   object-fit: contain;
   filter: drop-shadow(0 0 5px black);
