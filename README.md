@@ -1,6 +1,11 @@
 <html>
+  <head>
+    <link rel= "stylesheet" type="text/css" href="StyleSheet.css">
+  </head>
   <body>
     <h1>Main Heading</h1>
+    include "main.html"
+    include "navbar.html"
   </body>
 </html>
 
