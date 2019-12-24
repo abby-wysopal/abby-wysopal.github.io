@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <link rel= "stylesheet" type="text/css" href="StyleSheet.css">
-    <title>Abby Wysopal</title>
-  </head>
-  <body>
-    <h1>Main Heading</h1>
-    include "main.html"
-    include "navbar.html"
-  </body>
-</html>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/abby-wysopal/abby-wysopal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
