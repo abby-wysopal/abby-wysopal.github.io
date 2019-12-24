@@ -3,13 +3,13 @@ body {
   background-color: #494645;
 }
 
-/*img{
+img{
   width: 5;
   height: 5; 
   image-rendering: pixelated;
   object-fit: contain;
   filter: drop-shadow(0 0 5px black);
-}*/
+}
 
 /*#main #CoverPhoto{
   padding-left: 50px;
