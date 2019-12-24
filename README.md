@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel= "stylesheet" type="text/css" href="StyleSheet.css">
+    <link rel= "stylesheet" type="text/css" href="StyleSheet.css" />
     <title>Abby Wysopal</title>
   </head>
   <body>
