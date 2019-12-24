@@ -12,6 +12,8 @@ img{
 }
 
 #CoverPhoto{
+  position: relative;
+  right: 30px;
   width: 20%;
   height: auto;
 }
