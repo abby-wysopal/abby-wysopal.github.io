@@ -3,6 +3,18 @@ body {
   background-color: #494645;
 }
 
+img{
+  width: auto;
+  height: auto;
+  image-rendering: pixelated;
+  object-fit: contain;
+}
+
+#CoverPhoto{
+  width: 20%;
+  height: auto;
+}
+
 .sidenav {
   height: 100%;
   width: 0;
