@@ -6,16 +6,23 @@ body {
   background-repeat: no-repeat;
   height: auto;
   width: auto;
+  opacity: 0.8;
 }
 
 .CoverPhoto{
+
+}
+
+img{
     height: 100px;
     width: auto;
     border-radius: 40%;
+    
 }
 
 h1{
     font-family: "Lato", sans-serif;
+    background-color: #FFFFFF
 }
 
 .center{
@@ -24,7 +31,6 @@ h1{
     top: 50%;
     width: 100%;
     text-align: center;
-    font-size: 18px;
 }
 
 .sidenav {
