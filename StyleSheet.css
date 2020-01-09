@@ -10,9 +10,6 @@ body {
 
 #CoverPhoto{
     background-image: url("./photos/AbbyWysopalHeadShot.jpg");
-    vertical-align: center;
-    background-size: 80%;
-    filter: drop-shadow(0 0 5px black);
 }
 
 .sidenav {
