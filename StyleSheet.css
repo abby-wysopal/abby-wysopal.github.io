@@ -16,9 +16,7 @@ body {
     height: 100px;
     width: auto;
     border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    align: middle;
 }
 
 p1{
