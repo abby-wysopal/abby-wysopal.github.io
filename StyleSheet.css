@@ -10,7 +10,7 @@ img{
   filter: drop-shadow(0 0 5px black);
 }
 
-/*#main #CoverPhoto{
+#main #CoverPhoto{
   padding-left: 50px;
   left: 100px;
   position: relative;
@@ -18,7 +18,7 @@ img{
   width: 5px;
   height: 5px;
 }
-*/
+
 .sidenav {
   height: 100%;
   width: 0;
