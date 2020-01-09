@@ -5,14 +5,11 @@ body {
   background-size: 80%;
 }
 
-img{
-  image-rendering: pixelated;
-  object-fit: contain;
-  padding-left: 20px;
-  filter: drop-shadow(0 0 5px black);
-  position: center;
-  border-radius: 50%;
-  
+#CoverPhoto{
+    background-image: url("./photos/AbbyWysopalHeadShot.jpg");
+    vertical-align: center;
+    filter: drop-shadow(0 0 5px black);
+    border-radius: 50%;
 }
 
 .sidenav {
