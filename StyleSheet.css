@@ -10,9 +10,11 @@ body {
 }
 
 .CoverPhoto{
-    height: 100px;
+    height: 200px;
     width: auto;
-    border-radius: 70%;
+    border-radius: 90%;
+    position: relative;
+    align: middle;
 }
 
 h1{
@@ -22,12 +24,14 @@ h1{
 }
 
 .centering{
+    
+/*
     position: relative;
-    display: block;
     height: 300px;
     text-align: center;
     width: 300px;
     vertical-align: middle;
+ */
 }
 
 .sidenav {
