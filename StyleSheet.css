@@ -4,6 +4,8 @@ body {
   background-image: url("./photos/background.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
+  height: auto;
+  width: auto;
 }
 
 #CoverPhoto{
