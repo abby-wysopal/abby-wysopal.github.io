@@ -18,12 +18,12 @@ body {
 
 h1{
     font-family: "Lato", sans-serif;
-    color: #FFFFFF;
+    color: #818181;
     text-align: center;
 }
 
 .center{
-    position: absolute;
+    align: center center;
     background-position: center center;
 }
 
