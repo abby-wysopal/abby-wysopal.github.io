@@ -6,17 +6,12 @@ body {
 img{
   image-rendering: pixelated;
   object-fit: contain;
-  padding-left: 50px;
+  padding-left: 20px;
   filter: drop-shadow(0 0 5px black);
-}
-
-#main #CoverPhoto{
-  padding-left: 50px;
-  left: 100px;
   position: relative;
+  width: auto;
+  height: 90%;
   
-  width: 5px;
-  height: 5px;
 }
 
 .sidenav {
