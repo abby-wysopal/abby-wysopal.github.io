@@ -2,6 +2,7 @@ body {
   font-family: "Lato", sans-serif;
   background-color: #494645;
   background-image: url("./photos/AbbyWysopalHeadShot.jpg");
+  border-image-width: 100%;
 }
 
 img{
