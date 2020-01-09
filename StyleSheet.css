@@ -24,7 +24,7 @@ h1{
 
 .center{
     align: center center;
-    background-position: center center;
+    /*background-position: center center;*/
 }
 
 .sidenav {
