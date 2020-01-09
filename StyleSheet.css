@@ -23,9 +23,12 @@ h1{
     text-align: center;
 }
 
-.center{
-    display: block;
-    margin: auto auto auto auto;
+.centering{
+    display: table-cell;
+    height: 300px;
+    text-align: center;
+    width: 300px;
+    vertical-align: middle;
 }
 
 .sidenav {
