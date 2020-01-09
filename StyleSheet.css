@@ -19,9 +19,14 @@ body {
     align: middle;
 }
 
-p1{
+h1{
     font-family: "Lato", sans-serif;
-    
+}
+
+.center{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 .sidenav {
