@@ -3,11 +3,13 @@ body {
   background-color: #494645;
   background-image: url("./photos/background.jpg");
   background-size: 80%;
+  background-repeat: no-repeat;
 }
 
 #CoverPhoto{
     background-image: url("./photos/AbbyWysopalHeadShot.jpg");
     vertical-align: center;
+    background-size: 80%;
     filter: drop-shadow(0 0 5px black);
     border-radius: 50%;
 }
