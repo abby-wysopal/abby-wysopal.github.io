@@ -2,19 +2,17 @@ body {
     font-family: "Lato", sans-serif;
     background-color: #494645;
     background-image: url("./photos/background.jpg");
-    width: 1300px;
-    height: 550px;
     background-size: 100%;
     background-repeat: no-repeat;
     opacity: 0.8;
 }
 
 .CoverPhoto{
+    position: sticky;
+    top: 1500px;
     height: 200px;
     width: auto;
     border-radius: 90%;
-    position: relative;
-    align: middle;
 }
 
 h1{
@@ -24,14 +22,7 @@ h1{
 }
 
 .centering{
-    
-/*
-    position: relative;
-    height: 300px;
-    text-align: center;
-    width: 300px;
-    vertical-align: middle;
- */
+    display: block;
 }
 
 .sidenav {
