@@ -9,13 +9,13 @@ body {
 
 .CoverPhoto{
     position: sticky;
-    top: 1500px;
     height: 200px;
     width: auto;
     border-radius: 90%;
 }
 
 h1{
+    margin-top: -3px;
     font-family: "Lato", sans-serif;
     color: #818181;
     text-align: center;
@@ -23,6 +23,7 @@ h1{
 
 .centering{
     display: block;
+    margin-top: 100px;
 }
 
 .sidenav {
@@ -67,4 +68,6 @@ h1{
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
+    .CoverPhoto{height: 100px;}
+    h1{font-size: 20px;}
 }
