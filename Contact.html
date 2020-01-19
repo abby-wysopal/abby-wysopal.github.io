@@ -5,11 +5,12 @@
     <link rel= "stylesheet" type="text/css" href="StyleSheet.css">
     <title>Contact</title>
   </head>
+
   <body>
     <!-- Side Navigation Bar -->
     <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-      <a href="./">Home</a>
+      <a href="./index.html">Home</a>
       <a href="./AboutMe.html">About</a>
       <a href="./Resume.html">Resume</a>
       <a href="./Projects.html">Projects</a>
@@ -17,19 +18,29 @@
     </div>
     
     <div id="main">
-      <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
-      <h1>Contact</h1>
+       <span style="font-size:30px;cursor:pointer;color:#818181" onclick="openNav()">&#9776;</span>
+      <h1>Contact Me</h1>
+      <br>
+      <h2>Home Address</h2>
+      <h3>2239 Aralia Street Newport Beach, CA 92660</h3>
+      <h2>Email</h2>
+      <h3>abbywysopal@gmail.com</h3>
+      <h2>Cell Phone Number</h2>
+      <h3>(949) 413-1533</h3>
+      <h2>Github</h2>
+      <h3><a href="https://github.com/abby-wysopal">abby-wysopal</a></h3>
+
     </div>
 
     <script>
-    function openNav() {
-      document.getElementById("mySidenav").style.width = "250px";
-      document.getElementById("main").style.marginLeft = "250px";
-    }
-    function closeNav() {
-      document.getElementById("mySidenav").style.width = "0";
-      document.getElementById("main").style.marginLeft= "0";
-    }
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+      }
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
     </script>
   </body>
 </html>

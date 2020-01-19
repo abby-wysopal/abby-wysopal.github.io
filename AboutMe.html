@@ -9,7 +9,7 @@
     <!-- Side Navigation Bar -->
     <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-      <a href="./">Home</a>
+      <a href="./index.html">Home</a>
       <a href="./AboutMe.html">About</a>
       <a href="./Resume.html">Resume</a>
       <a href="./Projects.html">Projects</a>
@@ -17,19 +17,22 @@
     </div>
     
     <div id="main">
-      <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+      <span style="font-size:30px;cursor:pointer;color:#818181" onclick="openNav()">&#9776;</span>
       <h1>About me</h1>
+      <h3>
+        Skilled programmer and complex problem-solver experienced in data analytics and report writing. Effective at supporting team needs with high-quality code, subject matter expertise and collaboration skills. While also being a resilient professional well-known for successfully taking problematic customer accounts and turning them into ongoing, lucrative contracts. Pursuing a role where hard work and dedication will be highly valued.
+      </h3>
     </div>
 
     <script>
-    function openNav() {
-      document.getElementById("mySidenav").style.width = "250px";
-      document.getElementById("main").style.marginLeft = "250px";
-    }
-    function closeNav() {
-      document.getElementById("mySidenav").style.width = "0";
-      document.getElementById("main").style.marginLeft= "0";
-    }
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+      }
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
     </script>
   </body>
 </html>
